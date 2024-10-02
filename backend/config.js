@@ -1,5 +1,5 @@
-const mongoURL = "mongodb+srv://arthteerth12345:WaveCreativeEcho@practice.itczxws.mongodb.net"
-const JWT_SECRET = "Teerth";
+const mongoURL = ""
+const JWT_SECRET = "";
 module.exports = {
     JWT_SECRET, 
     mongoURL
